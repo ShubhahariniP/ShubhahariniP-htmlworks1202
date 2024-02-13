@@ -1,0 +1,23 @@
+h1{
+    font-style: italic;
+    font-size: 50px; 
+}
+.heading{
+    font-family: serif;
+    background-color: :black;
+}
+.main{
+  margin-left:35px;
+    font-size:36px;
+    text-align: center;
+}
+.box{
+    margin-left: 500px;
+    width: 200px;
+    height:200px;
+}
+.box1{
+    font-size:50px;
+    color: bisque;
+    background-color: rgb(29, 26, 14);
+}
